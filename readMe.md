@@ -19,7 +19,6 @@
 
  ### <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat-thomas.gif" height="30px" width="30px" /> **_About Me_**
  
-- <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/octocat/daftpunktocat-thomas.gif" height="30px" width="30px" />
 - <img src="https://github.com/ladunjexa/ladunjexa/blob/main/assets/Developer.gif" width="25" /> Senior Java Developer with 5+ years of experience in backend and full-stack development.<br>
 - <img src="https://github.com/ladunjexa/ladunjexa/blob/main/assets/hyperkitty.gif?raw=true" width="20" /> Skilled in Java, Spring Boot, Microservices, and system architecture.<br>
 - <img src="https://github.com/ladunjexa/ladunjexa/blob/main/assets/lightning.gif?raw=true" width="12" /> Passionate about building scalable, secure, and efficient backend systems.<br>

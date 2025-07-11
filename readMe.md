@@ -24,5 +24,5 @@
 - <img src="https://github.com/ladunjexa/ladunjexa/blob/main/assets/lightning.gif?raw=true" width="12" /> Passionate about building scalable, secure, and efficient backend systems.<br>
 - <img src="https://github.com/ladunjexa/ladunjexa/blob/main/assets/message.gif?raw=true" width="25" /> Experienced in Agile development and collaborating across teams.<br>
 - <img src="https://github.com/ladunjexa/ladunjexa/blob/main/assets/letterbox.gif?raw=true" width="25" /> Built a microservice for Northwest Bank using LLM to analyze customer complaints and generate responses.<br>
-- <img src="https://github.com/ladunjexa/ladunjexa/blob/main/assets/letterbox.gif?raw=true" width="25" /> Let's connect: <a href="https://t.me/reddela">@Redeemm</a> on Telegram.<br>
+- <img src="https://github.com/ladunjexa/ladunjexa/blob/main/assets/letterbox.gif?raw=true" width="25" /> Check up my <a href="https://redeemm.xyz/">Portfolio</a> <br>
 
